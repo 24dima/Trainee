@@ -10,14 +10,14 @@ namespace CSharpBase
     {
         static void Main(string[] args)
         {
-            Adress myAdress = new Adress();
-            myAdress.City = "Lviv";
-            myAdress.Country = "Ukraine";
-            myAdress.House = "43A";
-            myAdress.Street = "Shyroka";
+            //Adress myAdress = new Adress();
+            //myAdress.City = "Lviv";
+            //myAdress.Country = "Ukraine";
+            //myAdress.House = "43A";
+            //myAdress.Street = "Shyroka";
 
-            Console.WriteLine("City: {0}, country: {1}, house: {2}, street: {3}",
-                myAdress.City, myAdress.Country,myAdress.House, myAdress.Street);
+            //Console.WriteLine("City: {0}, country: {1}, house: {2}, street: {3}",
+            //    myAdress.City, myAdress.Country,myAdress.House, myAdress.Street);
         }
     }
 
